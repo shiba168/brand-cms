@@ -14,7 +14,8 @@ export async function POST(req) {
   const safe = file.name.toLowerCase().replace(/[^a-z0-9.\-_]/g, '-');
 
   if (process.env.BLOB_READ_WRITE_TOKEN) {
-    const blob = await put(`uploads/${safe}`, file, { access: 'public', addRandomSuffix: true, contentType: file.type });
+    const ns = (process.env.SITE_ID || '').toLowerCase().replace(/[^a-z0-9-]/g, '');
+    const blob = await put(`${ns ? ns + '/' : ''}uploads/${safe}`, file, { access: 'public', addRandomSuffix: true, contentType: file.type });
     return NextResponse.json({ url: blob.url });
   }
   if (process.env.VERCEL) {

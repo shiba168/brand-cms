@@ -32,7 +32,18 @@ Starts with 3 pages: Home, `/taruhan-sukan`, `/bingo` (+ English under `/en/...`
 Until Redis is connected the site shows the built-in starter content and the
 admin will tell you saving is disabled.
 
-## Launching another brand
+## Launching another brand (new domain)
+
+**Option 1 — separate storage per brand (simplest):** new Vercel project from the
+same repo + its own Upstash Redis + Blob + `ADMIN_PASSWORD`.
+
+**Option 2 — share one Redis + one Blob across brands:** connect the *existing*
+Upstash database and Blob store to the new project, and give every project a
+different `SITE_ID` env var (e.g. `megawin`, `luckyspin`). Each brand's content
+and images are kept apart by that ID. Give the first site a `SITE_ID` too, or leave
+it empty on the first site only.
+
+### Old notes
 
 Each brand = its own Vercel project from the **same GitHub repo**, with its own
 Redis + Blob + `ADMIN_PASSWORD`. To start a new brand from an existing one:
