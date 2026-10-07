@@ -1,0 +1,2242 @@
+{
+  "version": 1,
+  "site": {
+    "brandName": "BRANDNAME",
+    "domain": "https://branddomain.com",
+    "logoUrl": "",
+    "logoHeight": 36,
+    "logoMark": "B",
+    "showBrandText": false,
+    "faviconUrl": "",
+    "ogImage": "",
+    "theme": {
+      "brand": "#f5b301",
+      "brand2": "#ff7a00",
+      "bg": "#0a0e16",
+      "surface": "#121a29",
+      "surface2": "#18223a",
+      "text": "#e9edf5",
+      "muted": "#9aa6bd"
+    },
+    "font": "system",
+    "enableEnglish": true,
+    "registerUrl": "/register",
+    "loginUrl": "/login",
+    "registerLabel": {
+      "ms": "Daftar",
+      "en": "Register"
+    },
+    "loginLabel": {
+      "ms": "Log Masuk",
+      "en": "Log In"
+    },
+    "homeLabel": {
+      "ms": "Laman Utama",
+      "en": "Home"
+    },
+    "supportEmail": "support@branddomain.com",
+    "notice": {
+      "ms": "18+ Untuk pengguna dewasa sahaja. Bermain dengan bertanggungjawab.",
+      "en": "18+ For adults only. Please play responsibly."
+    },
+    "nav": [
+      {
+        "label": {
+          "ms": "Laman Utama",
+          "en": "Home"
+        },
+        "href": "/"
+      },
+      {
+        "label": {
+          "ms": "Taruhan Sukan",
+          "en": "Sports Betting"
+        },
+        "href": "/taruhan-sukan"
+      },
+      {
+        "label": {
+          "ms": "Kasino Langsung",
+          "en": "Live Casino"
+        },
+        "href": "/kasino-langsung"
+      },
+      {
+        "label": {
+          "ms": "Slot",
+          "en": "Slots"
+        },
+        "href": "/slot"
+      },
+      {
+        "label": {
+          "ms": "Bingo",
+          "en": "Bingo"
+        },
+        "href": "/bingo"
+      },
+      {
+        "label": {
+          "ms": "Promosi",
+          "en": "Promotions"
+        },
+        "href": "/promosi"
+      },
+      {
+        "label": {
+          "ms": "VIP",
+          "en": "VIP"
+        },
+        "href": "/vip"
+      },
+      {
+        "label": {
+          "ms": "Pengeluaran",
+          "en": "Withdrawal"
+        },
+        "href": "/pengeluaran"
+      }
+    ],
+    "footerColumns": [
+      {
+        "title": {
+          "ms": "Permainan",
+          "en": "Games"
+        },
+        "links": [
+          {
+            "label": {
+              "ms": "Taruhan Sukan",
+              "en": "Sports Betting"
+            },
+            "href": "/taruhan-sukan"
+          },
+          {
+            "label": {
+              "ms": "Kasino Langsung",
+              "en": "Live Casino"
+            },
+            "href": "/kasino-langsung"
+          },
+          {
+            "label": {
+              "ms": "Slot",
+              "en": "Slots"
+            },
+            "href": "/slot"
+          },
+          {
+            "label": {
+              "ms": "Bingo",
+              "en": "Bingo"
+            },
+            "href": "/bingo"
+          },
+          {
+            "label": {
+              "ms": "Esports",
+              "en": "Esports"
+            },
+            "href": "/esports"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ms": "Maklumat",
+          "en": "Information"
+        },
+        "links": [
+          {
+            "label": {
+              "ms": "Tentang Kami",
+              "en": "About Us"
+            },
+            "href": "/about-us"
+          },
+          {
+            "label": {
+              "ms": "Promosi",
+              "en": "Promotions"
+            },
+            "href": "/promosi"
+          },
+          {
+            "label": {
+              "ms": "Terma & Syarat",
+              "en": "Terms & Conditions"
+            },
+            "href": "/terms-conditions"
+          },
+          {
+            "label": {
+              "ms": "Dasar Privasi",
+              "en": "Privacy Policy"
+            },
+            "href": "/privacy-policy"
+          },
+          {
+            "label": {
+              "ms": "Permainan Bertanggungjawab",
+              "en": "Responsible Gaming"
+            },
+            "href": "/responsible-gaming"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ms": "Akaun",
+          "en": "Account"
+        },
+        "links": [
+          {
+            "label": {
+              "ms": "Daftar",
+              "en": "Register"
+            },
+            "href": "{register}"
+          },
+          {
+            "label": {
+              "ms": "Log Masuk",
+              "en": "Log In"
+            },
+            "href": "{login}"
+          },
+          {
+            "label": {
+              "ms": "Pengeluaran",
+              "en": "Withdrawal"
+            },
+            "href": "/pengeluaran"
+          },
+          {
+            "label": {
+              "ms": "FAQ",
+              "en": "FAQ"
+            },
+            "href": "/#faq"
+          },
+          {
+            "label": {
+              "ms": "Peta Laman",
+              "en": "Sitemap"
+            },
+            "href": "/sitemap.xml"
+          }
+        ]
+      }
+    ],
+    "footerText": {
+      "ms": "Platform taruhan sukan dan hiburan dalam talian untuk pemain Malaysia. Bermain dengan selamat, bermain dengan bertanggungjawab.",
+      "en": "Online sports betting and entertainment platform for Malaysian players. Play safe, play responsibly."
+    },
+    "copyright": {
+      "ms": "© {year} {brand}. Hak cipta terpelihara. Untuk pengguna berumur 18 tahun ke atas sahaja.",
+      "en": "© {year} {brand}. All rights reserved. For users aged 18 and above only."
+    },
+    "gaId": "",
+    "googleVerification": "",
+    "customBodyHtml": ""
+  },
+  "pages": [
+    {
+      "id": "5mvwkegi",
+      "slug": "",
+      "status": "published",
+      "navLabel": {
+        "ms": "Laman Utama",
+        "en": "Home"
+      },
+      "seo": {
+        "title": {
+          "ms": "{brand} – Platform Taruhan Sukan & Kasino Dalam Talian Malaysia",
+          "en": "{brand} – Online Sports Betting & Casino Platform in Malaysia"
+        },
+        "description": {
+          "ms": "{brand} ialah platform hiburan dalam talian untuk pemain Malaysia: taruhan sukan, kasino langsung, slot dan esports dengan deposit FPX pantas dan sokongan 24/7.",
+          "en": "{brand} is an online entertainment platform for Malaysian players: sports betting, live casino, slots and esports with fast FPX deposits and 24/7 support."
+        },
+        "ogImage": ""
+      },
+      "sections": [
+        {
+          "id": "nj5wnbot",
+          "type": "hero",
+          "visual": "phone",
+          "eyebrow": {
+            "ms": "Pilihan Pemain Malaysia",
+            "en": "Malaysia's Player Choice"
+          },
+          "title": {
+            "ms": "{brand} – Taruhan Sukan, Kasino Langsung & Slot Dalam Satu Akaun",
+            "en": "{brand} – Sports Betting, Live Casino & Slots in One Account"
+          },
+          "highlight": {
+            "ms": "{brand}",
+            "en": "{brand}"
+          },
+          "lead": {
+            "ms": "Satu akaun untuk semua: odds sukan masa nyata, meja peniaga langsung, ribuan slot dan esports. Deposit melalui FPX atau e-dompet dalam beberapa saat, pengeluaran diproses pantas, dan pasukan sokongan sentiasa sedia 24 jam.",
+            "en": "One account for everything: real-time sports odds, live dealer tables, thousands of slots and esports. Deposit via FPX or e-wallet in seconds, get fast withdrawals, and reach our support team around the clock."
+          },
+          "buttons": [
+            {
+              "label": {
+                "ms": "Daftar Sekarang",
+                "en": "Register Now"
+              },
+              "href": "{register}",
+              "style": "primary"
+            },
+            {
+              "label": {
+                "ms": "Log Masuk",
+                "en": "Log In"
+              },
+              "href": "{login}",
+              "style": "ghost"
+            }
+          ],
+          "trust": [
+            {
+              "text": {
+                "ms": "Deposit FPX segera",
+                "en": "Instant FPX deposits"
+              }
+            },
+            {
+              "text": {
+                "ms": "Penyulitan SSL",
+                "en": "SSL encryption"
+              }
+            },
+            {
+              "text": {
+                "ms": "Sokongan BM & EN",
+                "en": "BM & EN support"
+              }
+            }
+          ],
+          "stats": [
+            {
+              "value": "350K+",
+              "label": {
+                "ms": "Ahli Aktif",
+                "en": "Active Members"
+              }
+            },
+            {
+              "value": "3,000+",
+              "label": {
+                "ms": "Pilihan Permainan",
+                "en": "Games Available"
+              }
+            },
+            {
+              "value": "~10 min",
+              "label": {
+                "ms": "Purata Pengeluaran",
+                "en": "Avg. Withdrawal"
+              }
+            },
+            {
+              "value": "24/7",
+              "label": {
+                "ms": "Live Chat",
+                "en": "Live Chat"
+              }
+            }
+          ]
+        },
+        {
+          "id": "mce01qvr",
+          "type": "cards",
+          "layout": "grid-4",
+          "eyebrow": {
+            "ms": "Kelebihan {brand}",
+            "en": "Why {brand}"
+          },
+          "title": {
+            "ms": "Kenapa Pemain Malaysia Memilih {brand}?",
+            "en": "Why Do Malaysian Players Choose {brand}?"
+          },
+          "lead": {
+            "ms": "Kami membina platform ini mengikut cara pemain Malaysia bermain: di telefon, dengan bank tempatan, dan dalam bahasa sendiri.",
+            "en": "We built this platform around how Malaysians actually play: on their phones, with local banks, in their own language."
+          },
+          "items": [
+            {
+              "icon": "bolt",
+              "title": {
+                "ms": "Pantas Tanpa Lag",
+                "en": "Fast, No Lag"
+              },
+              "body": {
+                "ms": "Pelayan dioptimumkan untuk rangkaian Asia Tenggara supaya taruhan langsung tidak tertangguh pada saat genting.",
+                "en": "Servers tuned for Southeast Asian networks so live bets never stall at the critical moment."
+              }
+            },
+            {
+              "icon": "lock",
+              "title": {
+                "ms": "Data Dilindungi",
+                "en": "Protected Data"
+              },
+              "body": {
+                "ms": "Sambungan disulitkan SSL, dengan pengesahan dua langkah untuk setiap log masuk dan pengeluaran.",
+                "en": "SSL-encrypted connections with two-factor authentication for every login and withdrawal."
+              }
+            },
+            {
+              "icon": "phone",
+              "title": {
+                "ms": "Mesra Mudah Alih",
+                "en": "Mobile-First"
+              },
+              "body": {
+                "ms": "Antara muka dibina untuk skrin telefon dahulu. Main melalui Android, iOS atau terus di pelayar.",
+                "en": "The interface is designed for phone screens first. Play on Android, iOS or straight from your browser."
+              }
+            },
+            {
+              "icon": "grid",
+              "title": {
+                "ms": "Ribuan Permainan",
+                "en": "Thousands of Games"
+              },
+              "body": {
+                "ms": "Sukan, kasino langsung, slot, permainan ikan, 4D dan esports daripada penyedia terkemuka.",
+                "en": "Sports, live casino, slots, fishing games, 4D and esports from leading providers."
+              }
+            },
+            {
+              "icon": "card",
+              "title": {
+                "ms": "Bayaran Tempatan",
+                "en": "Local Payments"
+              },
+              "body": {
+                "ms": "FPX, Maybank, CIMB, Public Bank, RHB dan e-dompet popular. Tiada penukaran mata wang.",
+                "en": "FPX, Maybank, CIMB, Public Bank, RHB and popular e-wallets. No currency conversion."
+              }
+            },
+            {
+              "icon": "chat",
+              "title": {
+                "ms": "Sokongan 24/7",
+                "en": "24/7 Support"
+              },
+              "body": {
+                "ms": "Live chat, WhatsApp dan Telegram dalam Bahasa Melayu dan Inggeris, siang dan malam.",
+                "en": "Live chat, WhatsApp and Telegram in Malay and English, day and night."
+              }
+            },
+            {
+              "icon": "gift",
+              "title": {
+                "ms": "Promosi Berterusan",
+                "en": "Ongoing Promotions"
+              },
+              "body": {
+                "ms": "Bonus alu-aluan, rebat harian, cashback mingguan dan hadiah hari jadi untuk ahli.",
+                "en": "Welcome bonus, daily rebates, weekly cashback and birthday rewards for members."
+              }
+            },
+            {
+              "icon": "star",
+              "title": {
+                "ms": "Ganjaran VIP",
+                "en": "VIP Rewards"
+              },
+              "body": {
+                "ms": "Naik tahap secara automatik dan nikmati had lebih tinggi, rebat lebih besar serta pengurus akaun peribadi.",
+                "en": "Level up automatically for higher limits, bigger rebates and a personal account manager."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ph93p13e",
+          "type": "cards",
+          "layout": "games",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Kategori Permainan",
+            "en": "Game Categories"
+          },
+          "title": {
+            "ms": "Semua Hiburan Anda, Satu Dompet",
+            "en": "All Your Entertainment, One Wallet"
+          },
+          "lead": {
+            "ms": "Pindah dari bola sepak ke baccarat ke slot tanpa perlu memindahkan baki. Satu dompet untuk semua kategori.",
+            "en": "Switch from football to baccarat to slots without moving your balance. One wallet across every category."
+          },
+          "items": [
+            {
+              "icon": "football",
+              "href": "/taruhan-sukan",
+              "title": {
+                "ms": "Sukan",
+                "en": "Sports"
+              },
+              "body": {
+                "ms": "Liga Malaysia, EPL, badminton",
+                "en": "Malaysia League, EPL, badminton"
+              }
+            },
+            {
+              "icon": "cards",
+              "href": "/kasino-langsung",
+              "title": {
+                "ms": "Kasino Langsung",
+                "en": "Live Casino"
+              },
+              "body": {
+                "ms": "Baccarat, roulette, sic bo",
+                "en": "Baccarat, roulette, sic bo"
+              }
+            },
+            {
+              "icon": "slot",
+              "href": "/slot",
+              "title": {
+                "ms": "Slot",
+                "en": "Slots"
+              },
+              "body": {
+                "ms": "Ribuan tajuk & jackpot",
+                "en": "Thousands of titles & jackpots"
+              }
+            },
+            {
+              "icon": "fish",
+              "href": "/permainan-ikan",
+              "title": {
+                "ms": "Permainan Ikan",
+                "en": "Fishing Games"
+              },
+              "body": {
+                "ms": "Arked menembak berbilang pemain",
+                "en": "Multiplayer shooting arcade"
+              }
+            },
+            {
+              "icon": "gamepad",
+              "href": "/esports",
+              "title": {
+                "ms": "Esports",
+                "en": "Esports"
+              },
+              "body": {
+                "ms": "MLBB, Dota 2, Valorant",
+                "en": "MLBB, Dota 2, Valorant"
+              }
+            },
+            {
+              "icon": "bingo",
+              "href": "/bingo",
+              "title": {
+                "ms": "Bingo",
+                "en": "Bingo"
+              },
+              "body": {
+                "ms": "75 bola, 90 bola & jackpot",
+                "en": "75-ball, 90-ball & jackpot"
+              }
+            }
+          ]
+        },
+        {
+          "id": "0e9tgvfe",
+          "type": "prose",
+          "background": "surface",
+          "eyebrow": {
+            "ms": "Mengenai {brand}",
+            "en": "About {brand}"
+          },
+          "title": {
+            "ms": "Platform Hiburan Dalam Talian yang Dibina untuk Malaysia",
+            "en": "An Online Entertainment Platform Built for Malaysia"
+          },
+          "body": {
+            "ms": "**{brand}** bermula dengan satu matlamat mudah: memberi pemain Malaysia platform yang terasa tempatan, bukan sekadar terjemahan daripada laman luar negara. Setiap butang, kaedah bayaran dan promosi direka berdasarkan cara sebenar rakyat Malaysia bermain dalam talian.\n\nDi bawah satu akaun, ahli boleh mengakses **taruhan sukan** dengan odds yang dikemas kini setiap saat, **kasino langsung** bersama peniaga sebenar yang disiarkan dalam definisi tinggi, ribuan **permainan slot**, arked ikan, keputusan 4D serta pasaran **esports** untuk kejohanan antarabangsa. Semua kategori berkongsi satu dompet.\n\nUntuk transaksi, kami menyokong bank yang digunakan oleh kebanyakan rakyat Malaysia setiap hari, termasuk **FPX**, pemindahan dalam talian dan e-dompet utama. Deposit biasanya dikreditkan serta-merta, manakala permintaan pengeluaran yang lengkap diproses dalam beberapa minit.\n\nKeselamatan bukan tambahan, ia asas. Setiap sesi dilindungi penyulitan SSL dan maklumat peribadi tidak akan dikongsi kepada pihak ketiga tanpa kebenaran. Butiran lanjut dalam [Dasar Privasi](/privacy-policy) kami.",
+            "en": "**{brand}** started with a simple goal: give Malaysian players a platform that feels local, not a translation of an overseas site. Every button, payment method and promotion is designed around how Malaysians really play online.\n\nWith one account, members get **sports betting** with odds updated every second, **live casino** with real dealers streamed in HD, thousands of **slot games**, fishing arcades, 4D results and **esports** markets for international tournaments. Every category shares a single wallet.\n\nFor payments, we support the banks most Malaysians use every day, including **FPX**, online transfers and major e-wallets. Deposits are usually credited instantly and complete withdrawal requests are processed within minutes.\n\nSecurity is the foundation, not an add-on. Every session is SSL-encrypted and personal data is never shared with third parties without consent. Read more in our [Privacy Policy](/privacy-policy)."
+          },
+          "asideTitle": {
+            "ms": "Ringkasan Platform",
+            "en": "Platform at a Glance"
+          },
+          "asideChecks": {
+            "ms": "Satu dompet untuk sukan, kasino, slot dan esports\nDeposit minimum rendah, dikreditkan serta-merta\nPengeluaran pantas ke bank tempatan\nAntara muka Bahasa Melayu & Inggeris\nPengesahan dua langkah & penyulitan SSL\nAlat permainan bertanggungjawab terbina dalam",
+            "en": "One wallet for sports, casino, slots and esports\nLow minimum deposit, credited instantly\nFast withdrawals to local banks\nMalay & English interface\nTwo-factor authentication & SSL encryption\nBuilt-in responsible gaming tools"
+          },
+          "asideChips": "FPX, Maybank, CIMB, Public Bank, RHB, Hong Leong, Touch 'n Go, DuitNow"
+        },
+        {
+          "id": "bdbm4z8d",
+          "type": "table",
+          "highlightLast": true,
+          "eyebrow": {
+            "ms": "Perbandingan Akses",
+            "en": "Access Comparison"
+          },
+          "title": {
+            "ms": "Pelayar, Aplikasi atau VIP: Apa Bezanya?",
+            "en": "Browser, App or VIP: What's the Difference?"
+          },
+          "lead": {
+            "ms": "Semua ahli mendapat akses penuh ke permainan. Inilah ciri tambahan yang anda dapat mengikut cara akses dan tahap akaun.",
+            "en": "Every member gets full game access. Here are the extras you unlock depending on how you play and your account tier."
+          },
+          "columns": {
+            "ms": "Ciri, Pelayar Web, Aplikasi, VIP",
+            "en": "Feature, Web Browser, App, VIP"
+          },
+          "rows": {
+            "ms": "Akses semua permainan | yes | yes | yes\nDeposit FPX & e-dompet | yes | yes | yes\nNotifikasi tolak (push) | no | yes | yes\nLog masuk biometrik | no | yes | yes\nHad pengeluaran lebih tinggi | no | no | yes\nRebat & cashback dipertingkat | no | no | yes\nPengurus akaun peribadi | no | no | yes",
+            "en": "Access to all games | yes | yes | yes\nFPX & e-wallet deposits | yes | yes | yes\nPush notifications | no | yes | yes\nBiometric login | no | yes | yes\nHigher withdrawal limits | no | no | yes\nBoosted rebates & cashback | no | no | yes\nPersonal account manager | no | no | yes"
+          }
+        },
+        {
+          "id": "ak11pm1o",
+          "type": "steps",
+          "tight": true,
+          "howTo": true,
+          "eyebrow": {
+            "ms": "Cara Bermula",
+            "en": "Getting Started"
+          },
+          "title": {
+            "ms": "Mula Bermain dalam 4 Langkah",
+            "en": "Start Playing in 4 Steps"
+          },
+          "lead": {
+            "ms": "Daripada pendaftaran hingga taruhan pertama, keseluruhan proses mengambil masa kurang daripada lima minit.",
+            "en": "From sign-up to your first bet, the whole process takes under five minutes."
+          },
+          "items": [
+            {
+              "title": {
+                "ms": "Daftar Akaun",
+                "en": "Create an Account"
+              },
+              "body": {
+                "ms": "Tekan \"Daftar\", masukkan nama pengguna, kata laluan dan nombor telefon. Sahkan melalui kod OTP.",
+                "en": "Tap \"Register\", enter a username, password and phone number. Verify with an OTP code."
+              }
+            },
+            {
+              "title": {
+                "ms": "Lengkapkan Profil",
+                "en": "Complete Your Profile"
+              },
+              "body": {
+                "ms": "Tambah akaun bank atas nama anda sendiri supaya pengeluaran boleh diproses tanpa kelewatan.",
+                "en": "Add a bank account in your own name so withdrawals can be processed without delay."
+              }
+            },
+            {
+              "title": {
+                "ms": "Buat Deposit",
+                "en": "Make a Deposit"
+              },
+              "body": {
+                "ms": "Pilih FPX, pemindahan bank atau e-dompet. Baki dikreditkan serta-merta ke dompet utama.",
+                "en": "Choose FPX, bank transfer or e-wallet. Your balance is credited instantly to the main wallet."
+              }
+            },
+            {
+              "title": {
+                "ms": "Pilih Permainan",
+                "en": "Pick a Game"
+              },
+              "body": {
+                "ms": "Terokai sukan, kasino langsung, slot atau esports, dan tuntut bonus alu-aluan anda.",
+                "en": "Explore sports, live casino, slots or esports, and claim your welcome bonus."
+              }
+            }
+          ]
+        },
+        {
+          "id": "84dmlqgm",
+          "type": "split",
+          "visual": "phone",
+          "reverse": false,
+          "background": "surface",
+          "eyebrow": {
+            "ms": "Aplikasi Mudah Alih",
+            "en": "Mobile App"
+          },
+          "title": {
+            "ms": "Bawa {brand} ke Mana Sahaja",
+            "en": "Take {brand} Anywhere"
+          },
+          "body": {
+            "ms": "Aplikasi {brand} ringan, menjimatkan data dan memberikan akses penuh: deposit, taruhan langsung, kasino dan pengeluaran, semuanya dalam beberapa sentuhan.\n\nLebih suka tidak memasang aplikasi? Laman web kami berfungsi sepenuhnya pada pelayar telefon dengan pengalaman yang sama lancar.",
+            "en": "The {brand} app is light, data-friendly and fully featured: deposits, live betting, casino and withdrawals in a few taps.\n\nPrefer not to install anything? Our website runs fully in your phone browser with the same smooth experience."
+          },
+          "phoneBadge": {
+            "ms": "Rebat Harian",
+            "en": "Daily Rebate"
+          },
+          "phoneTitle": {
+            "ms": "Sehingga 1.2% Tanpa Had",
+            "en": "Up to 1.2%, Unlimited"
+          },
+          "buttons": [
+            {
+              "label": {
+                "ms": "Muat Turun Android APK",
+                "en": "Download Android APK"
+              },
+              "href": "/aplikasi",
+              "style": "primary"
+            },
+            {
+              "label": {
+                "ms": "Pasang di iOS",
+                "en": "Install on iOS"
+              },
+              "href": "/aplikasi",
+              "style": "ghost"
+            }
+          ]
+        },
+        {
+          "id": "o2csdb45",
+          "type": "split",
+          "visual": "odds",
+          "eyebrow": {
+            "ms": "Sukan & Esports",
+            "en": "Sports & Esports"
+          },
+          "title": {
+            "ms": "Ikuti Setiap Perlawanan Besar Bersama {brand}",
+            "en": "Follow Every Big Match with {brand}"
+          },
+          "body": {
+            "ms": "Daripada Liga Super Malaysia dan Liga Perdana Inggeris hingga kejohanan badminton BWF, {brand} menawarkan ratusan pasaran setiap hari, termasuk handicap Asia, over/under, jaringan pertama dan banyak lagi.",
+            "en": "From the Malaysia Super League and English Premier League to BWF badminton tournaments, {brand} offers hundreds of markets daily, including Asian handicap, over/under, first goalscorer and more."
+          },
+          "chips": {
+            "ms": "Bola Sepak, Badminton, Sepak Takraw, Bola Keranjang, Tenis, Mobile Legends, Dota 2, Valorant, F1",
+            "en": "Football, Badminton, Sepak Takraw, Basketball, Tennis, Mobile Legends, Dota 2, Valorant, F1"
+          },
+          "bodyAfter": {
+            "ms": "Odds dikemas kini secara masa nyata semasa perlawanan berlangsung. Gunakan ciri **cash out** untuk mengunci keuntungan lebih awal.",
+            "en": "Odds update in real time while matches are live. Use **cash out** to lock in profit early."
+          },
+          "boardTitle": {
+            "ms": "Perlawanan Pilihan",
+            "en": "Featured Matches"
+          },
+          "boardNote": {
+            "ms": "*Odds untuk paparan sahaja.",
+            "en": "*Odds shown for illustration only."
+          },
+          "buttons": [
+            {
+              "label": {
+                "ms": "Lihat Taruhan Sukan",
+                "en": "View Sports Betting"
+              },
+              "href": "/taruhan-sukan",
+              "style": "ghost"
+            }
+          ],
+          "fixtures": [
+            {
+              "home": "Johor Darul Ta'zim",
+              "away": "Selangor FC",
+              "meta": {
+                "ms": "Liga Super Malaysia · Langsung 67'",
+                "en": "Malaysia Super League · Live 67'"
+              },
+              "o1": "1.85",
+              "ox": "3.40",
+              "o2": "4.10"
+            },
+            {
+              "home": "Arsenal",
+              "away": "Liverpool",
+              "meta": {
+                "ms": "Liga Perdana Inggeris · Ahad 23:30",
+                "en": "English Premier League · Sun 11:30 PM"
+              },
+              "o1": "2.45",
+              "ox": "3.30",
+              "o2": "2.80"
+            },
+            {
+              "home": "Team A",
+              "away": "Team B",
+              "meta": {
+                "ms": "MPL Malaysia · Esports · Malam ini",
+                "en": "MPL Malaysia · Esports · Tonight"
+              },
+              "o1": "1.64",
+              "ox": "",
+              "o2": "2.20"
+            }
+          ]
+        },
+        {
+          "id": "s3zdhvvg",
+          "type": "cards",
+          "layout": "grid-4",
+          "boxed": true,
+          "badge": "18+",
+          "tight": true,
+          "title": {
+            "ms": "Bermain dengan Bijak, Kekal dalam Kawalan",
+            "en": "Play Smart, Stay in Control"
+          },
+          "lead": {
+            "ms": "{brand} hanya untuk individu berumur 18 tahun ke atas. Kami menyediakan alat praktikal supaya hiburan anda kekal sihat dan terkawal.",
+            "en": "{brand} is for adults aged 18 and above only. We provide practical tools to keep your entertainment healthy and under control."
+          },
+          "buttons": [
+            {
+              "label": {
+                "ms": "Ketahui Lebih Lanjut",
+                "en": "Learn More"
+              },
+              "href": "/responsible-gaming",
+              "style": "ghost"
+            }
+          ],
+          "items": [
+            {
+              "icon": "card",
+              "title": {
+                "ms": "Had Deposit",
+                "en": "Deposit Limits"
+              },
+              "body": {
+                "ms": "Tetapkan had harian, mingguan atau bulanan terus dari tetapan akaun.",
+                "en": "Set daily, weekly or monthly limits right from your account settings."
+              }
+            },
+            {
+              "icon": "clock",
+              "title": {
+                "ms": "Had Masa Sesi",
+                "en": "Session Time Limits"
+              },
+              "body": {
+                "ms": "Terima peringatan automatik apabila tempoh bermain anda menghampiri had.",
+                "en": "Get automatic reminders when your playing time nears your limit."
+              }
+            },
+            {
+              "icon": "ban",
+              "title": {
+                "ms": "Pengecualian Diri",
+                "en": "Self-Exclusion"
+              },
+              "body": {
+                "ms": "Rehat sementara atau tutup akaun secara kekal bila-bila masa anda perlukan.",
+                "en": "Take a temporary break or close your account permanently whenever you need."
+              }
+            },
+            {
+              "icon": "heart",
+              "title": {
+                "ms": "Bantuan Sulit",
+                "en": "Confidential Help"
+              },
+              "body": {
+                "ms": "Hubungi pasukan sokongan kami secara sulit jika anda atau orang tersayang memerlukan bantuan.",
+                "en": "Contact our support team in confidence if you or someone close to you needs help."
+              }
+            }
+          ]
+        },
+        {
+          "id": "okn4nb7r",
+          "type": "faq",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Soalan Lazim",
+            "en": "FAQ"
+          },
+          "title": {
+            "ms": "Soalan yang Kerap Ditanya",
+            "en": "Frequently Asked Questions"
+          },
+          "lead": {
+            "ms": "Jawapan ringkas untuk soalan yang paling kerap diajukan oleh ahli baharu {brand}.",
+            "en": "Quick answers to the questions new {brand} members ask most."
+          },
+          "items": [
+            {
+              "q": {
+                "ms": "Bagaimana cara mendaftar akaun {brand}?",
+                "en": "How do I register a {brand} account?"
+              },
+              "a": {
+                "ms": "Tekan butang Daftar, isi nama pengguna, kata laluan dan nombor telefon, kemudian sahkan akaun melalui OTP. Proses ini mengambil masa kurang daripada tiga minit.",
+                "en": "Tap Register, enter a username, password and phone number, then verify your account by OTP. It takes less than three minutes."
+              }
+            },
+            {
+              "q": {
+                "ms": "Apakah kaedah deposit yang disokong oleh {brand}?",
+                "en": "Which deposit methods does {brand} support?"
+              },
+              "a": {
+                "ms": "{brand} menyokong FPX, pemindahan bank tempatan seperti Maybank, CIMB, Public Bank dan RHB, serta e-dompet popular di Malaysia.",
+                "en": "{brand} supports FPX, local bank transfers such as Maybank, CIMB, Public Bank and RHB, and popular Malaysian e-wallets."
+              }
+            },
+            {
+              "q": {
+                "ms": "Berapa lama masa pengeluaran di {brand}?",
+                "en": "How long do withdrawals take at {brand}?"
+              },
+              "a": {
+                "ms": "Kebanyakan permintaan pengeluaran yang lengkap diproses dalam masa 5 hingga 15 minit selepas pengesahan akaun.",
+                "en": "Most complete withdrawal requests are processed within 5 to 15 minutes after account verification."
+              }
+            },
+            {
+              "q": {
+                "ms": "Adakah {brand} selamat digunakan?",
+                "en": "Is {brand} safe to use?"
+              },
+              "a": {
+                "ms": "Ya. Semua sambungan dilindungi penyulitan SSL dan akaun boleh dilindungi dengan pengesahan dua langkah. Baca [Dasar Privasi](/privacy-policy) kami untuk maklumat lanjut.",
+                "en": "Yes. Every connection is protected by SSL encryption and accounts can be secured with two-factor authentication. Read our [Privacy Policy](/privacy-policy) for more."
+              }
+            },
+            {
+              "q": {
+                "ms": "Bolehkah saya bermain melalui telefon pintar?",
+                "en": "Can I play on my smartphone?"
+              },
+              "a": {
+                "ms": "Boleh. {brand} berfungsi sepenuhnya pada pelayar mudah alih dan tersedia sebagai aplikasi Android serta pintasan iOS.",
+                "en": "Yes. {brand} works fully in mobile browsers and is available as an Android app and an iOS shortcut."
+              }
+            },
+            {
+              "q": {
+                "ms": "Siapa yang boleh menyertai {brand}?",
+                "en": "Who can join {brand}?"
+              },
+              "a": {
+                "ms": "Hanya individu berumur 18 tahun ke atas dibenarkan mendaftar dan bermain di {brand}.",
+                "en": "Only individuals aged 18 and above may register and play at {brand}."
+              }
+            }
+          ]
+        },
+        {
+          "id": "m61kfoc1",
+          "type": "cta",
+          "tight": true,
+          "title": {
+            "ms": "Sedia untuk Bermula Bersama {brand}?",
+            "en": "Ready to Get Started with {brand}?"
+          },
+          "text": {
+            "ms": "Daftar dalam beberapa minit, tuntut bonus alu-aluan anda dan terokai ribuan permainan dalam satu akaun.",
+            "en": "Sign up in minutes, claim your welcome bonus and explore thousands of games in one account."
+          },
+          "buttons": [
+            {
+              "label": {
+                "ms": "Daftar Percuma Sekarang",
+                "en": "Register Free Now"
+              },
+              "href": "{register}",
+              "style": "primary"
+            },
+            {
+              "label": {
+                "ms": "Log Masuk",
+                "en": "Log In"
+              },
+              "href": "{login}",
+              "style": "ghost"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68hcgfxi",
+      "slug": "taruhan-sukan",
+      "status": "published",
+      "navLabel": {
+        "ms": "Taruhan Sukan",
+        "en": "Sports Betting"
+      },
+      "seo": {
+        "title": {
+          "ms": "Taruhan Sukan Dalam Talian Malaysia – Odds Langsung | {brand}",
+          "en": "Online Sports Betting Malaysia – Live Odds | {brand}"
+        },
+        "description": {
+          "ms": "Taruhan sukan dalam talian di {brand}: bola sepak, badminton, esports dan lebih banyak lagi dengan odds langsung, handicap Asia, parlay dan cash out. Deposit FPX pantas.",
+          "en": "Online sports betting at {brand}: football, badminton, esports and more with live odds, Asian handicap, parlays and cash out. Fast FPX deposits."
+        },
+        "ogImage": ""
+      },
+      "sections": [
+        {
+          "id": "f6eersf2",
+          "type": "hero",
+          "breadcrumb": true,
+          "visual": "none",
+          "eyebrow": {
+            "ms": "Taruhan Sukan",
+            "en": "Sports Betting"
+          },
+          "title": {
+            "ms": "Taruhan Sukan Dalam Talian di {brand} – Odds Langsung untuk Setiap Perlawanan",
+            "en": "Online Sports Betting at {brand} – Live Odds on Every Match"
+          },
+          "highlight": {
+            "ms": "Taruhan Sukan",
+            "en": "Online Sports Betting"
+          },
+          "lead": {
+            "ms": "Ratusan perlawanan setiap hari, dari Liga Super Malaysia hingga kejohanan BWF dan MPL. Pilih pasaran, letak taruhan dalam beberapa saat, dan ikuti odds yang bergerak secara masa nyata.",
+            "en": "Hundreds of matches daily, from the Malaysia Super League to BWF tournaments and MPL. Pick a market, place your bet in seconds and follow odds that move in real time."
+          },
+          "buttons": [
+            {
+              "label": {
+                "ms": "Daftar & Mula Bertaruh",
+                "en": "Register & Start Betting"
+              },
+              "href": "{register}",
+              "style": "primary"
+            },
+            {
+              "label": {
+                "ms": "Log Masuk",
+                "en": "Log In"
+              },
+              "href": "{login}",
+              "style": "ghost"
+            }
+          ],
+          "minis": [
+            {
+              "icon": "bolt",
+              "title": {
+                "ms": "Odds Masa Nyata",
+                "en": "Real-Time Odds"
+              },
+              "body": {
+                "ms": "Dikemas kini setiap saat semasa perlawanan.",
+                "en": "Updated every second during play."
+              }
+            },
+            {
+              "icon": "lock",
+              "title": {
+                "ms": "Transaksi Selamat",
+                "en": "Secure Transactions"
+              },
+              "body": {
+                "ms": "Sambungan SSL & pengesahan dua langkah.",
+                "en": "SSL connections & two-factor authentication."
+              }
+            },
+            {
+              "icon": "phone",
+              "title": {
+                "ms": "Bertaruh di Telefon",
+                "en": "Bet on Mobile"
+              },
+              "body": {
+                "ms": "Slip taruhan direka untuk skrin kecil.",
+                "en": "A bet slip built for small screens."
+              }
+            },
+            {
+              "icon": "chat",
+              "title": {
+                "ms": "Sokongan 24/7",
+                "en": "24/7 Support"
+              },
+              "body": {
+                "ms": "Live chat dalam BM & Inggeris.",
+                "en": "Live chat in Malay & English."
+              }
+            }
+          ]
+        },
+        {
+          "id": "2dtmm1ze",
+          "type": "cards",
+          "layout": "grid-4",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Kategori Sukan",
+            "en": "Sports Categories"
+          },
+          "title": {
+            "ms": "Sukan yang Boleh Anda Pertaruhkan",
+            "en": "Sports You Can Bet On"
+          },
+          "lead": {
+            "ms": "Liputan meluas untuk sukan kegemaran Malaysia dan liga utama dunia, dengan pasaran pra-perlawanan dan langsung.",
+            "en": "Wide coverage of Malaysian favourites and the world's top leagues, with pre-match and live markets."
+          },
+          "items": [
+            {
+              "icon": "football",
+              "title": {
+                "ms": "Bola Sepak",
+                "en": "Football"
+              },
+              "body": {
+                "ms": "Pasaran paling lengkap, dari liga tempatan hingga kejohanan Eropah.",
+                "en": "The deepest markets, from local leagues to European tournaments."
+              },
+              "tags": {
+                "ms": "Liga Super, EPL, La Liga, UCL",
+                "en": "Super League, EPL, La Liga, UCL"
+              }
+            },
+            {
+              "icon": "shuttle",
+              "title": {
+                "ms": "Badminton",
+                "en": "Badminton"
+              },
+              "body": {
+                "ms": "Setiap siri BWF World Tour dengan pasaran set dan mata.",
+                "en": "Every BWF World Tour event with set and point markets."
+              },
+              "tags": {
+                "ms": "BWF, Piala Thomas, All England",
+                "en": "BWF, Thomas Cup, All England"
+              }
+            },
+            {
+              "icon": "gamepad",
+              "title": {
+                "ms": "Esports",
+                "en": "Esports"
+              },
+              "body": {
+                "ms": "Pasaran peta, kill pertama dan pemenang siri.",
+                "en": "Map, first blood and series winner markets."
+              },
+              "tags": {
+                "ms": "MLBB, Dota 2, CS2, Valorant",
+                "en": "MLBB, Dota 2, CS2, Valorant"
+              }
+            },
+            {
+              "icon": "tennis",
+              "title": {
+                "ms": "Tenis",
+                "en": "Tennis"
+              },
+              "body": {
+                "ms": "Grand Slam, ATP dan WTA dengan taruhan set demi set.",
+                "en": "Grand Slams, ATP and WTA with set-by-set betting."
+              },
+              "tags": {
+                "ms": "Grand Slam, ATP, WTA",
+                "en": "Grand Slam, ATP, WTA"
+              }
+            },
+            {
+              "icon": "takraw",
+              "title": {
+                "ms": "Sepak Takraw",
+                "en": "Sepak Takraw"
+              },
+              "body": {
+                "ms": "Pasaran khas untuk liga dan kejohanan serantau.",
+                "en": "Dedicated markets for leagues and regional tournaments."
+              },
+              "tags": {
+                "ms": "Liga Takraw, Sukan SEA",
+                "en": "Takraw League, SEA Games"
+              }
+            },
+            {
+              "icon": "basketball",
+              "title": {
+                "ms": "Bola Keranjang",
+                "en": "Basketball"
+              },
+              "body": {
+                "ms": "NBA, EuroLeague dan FIBA dengan handicap mata.",
+                "en": "NBA, EuroLeague and FIBA with point handicaps."
+              },
+              "tags": {
+                "ms": "NBA, EuroLeague, FIBA",
+                "en": "NBA, EuroLeague, FIBA"
+              }
+            },
+            {
+              "icon": "glove",
+              "title": {
+                "ms": "Tinju & MMA",
+                "en": "Boxing & MMA"
+              },
+              "body": {
+                "ms": "Pemenang, kaedah kemenangan dan pusingan.",
+                "en": "Winner, method of victory and round betting."
+              },
+              "tags": {
+                "ms": "UFC, ONE, Tinju",
+                "en": "UFC, ONE, Boxing"
+              }
+            },
+            {
+              "icon": "flag",
+              "title": {
+                "ms": "Sukan Bermotor",
+                "en": "Motorsport"
+              },
+              "body": {
+                "ms": "Pemenang perlumbaan dan pertarungan pemandu.",
+                "en": "Race winner and driver head-to-heads."
+              },
+              "tags": {
+                "ms": "F1, MotoGP",
+                "en": "F1, MotoGP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nus8bjma",
+          "type": "cards",
+          "layout": "grid-3",
+          "background": "surface",
+          "eyebrow": {
+            "ms": "Jenis Taruhan",
+            "en": "Bet Types"
+          },
+          "title": {
+            "ms": "Fahami Jenis Taruhan Sebelum Anda Bermula",
+            "en": "Understand the Bet Types Before You Start"
+          },
+          "lead": {
+            "ms": "Setiap jenis taruhan mempunyai risiko dan potensi pulangan yang berbeza. Inilah enam yang paling kerap digunakan oleh pemain Malaysia.",
+            "en": "Each bet type carries different risk and return. These are the six Malaysian players use most."
+          },
+          "items": [
+            {
+              "code": "1X2",
+              "title": {
+                "ms": "1X2 (Keputusan Penuh)",
+                "en": "1X2 (Full Time)"
+              },
+              "body": {
+                "ms": "Pilih pasukan tuan rumah menang (1), seri (X) atau pasukan pelawat menang (2) selepas 90 minit.",
+                "en": "Pick a home win (1), draw (X) or away win (2) after 90 minutes."
+              },
+              "example": {
+                "ms": "**Contoh:** JDT 1.85 · Seri 3.40 · Selangor 4.10",
+                "en": "**Example:** JDT 1.85 · Draw 3.40 · Selangor 4.10"
+              }
+            },
+            {
+              "code": "AH",
+              "title": {
+                "ms": "Handicap Asia",
+                "en": "Asian Handicap"
+              },
+              "body": {
+                "ms": "Pasukan yang lebih kuat diberi kelebihan negatif untuk menyamakan peluang. Pilihan seri dibuang, jadi hanya ada dua keputusan.",
+                "en": "The stronger side gets a negative handicap to level the odds. The draw is removed, leaving two outcomes."
+              },
+              "example": {
+                "ms": "**Contoh:** Arsenal −0.5 bermaksud Arsenal perlu menang.",
+                "en": "**Example:** Arsenal −0.5 means Arsenal must win."
+              }
+            },
+            {
+              "code": "O/U",
+              "title": {
+                "ms": "Over / Under",
+                "en": "Over / Under"
+              },
+              "body": {
+                "ms": "Ramal sama ada jumlah gol, mata atau set melebihi atau kurang daripada garisan yang ditetapkan.",
+                "en": "Predict whether total goals, points or sets go over or under a set line."
+              },
+              "example": {
+                "ms": "**Contoh:** Over 2.5 gol menang jika perlawanan berakhir 2-1.",
+                "en": "**Example:** Over 2.5 goals wins if the match ends 2-1."
+              }
+            },
+            {
+              "code": "LIVE",
+              "title": {
+                "ms": "Taruhan Langsung",
+                "en": "In-Play Betting"
+              },
+              "body": {
+                "ms": "Bertaruh selepas perlawanan bermula, dengan odds yang berubah mengikut momentum permainan.",
+                "en": "Bet after kick-off, with odds that shift with the game's momentum."
+              },
+              "example": {
+                "ms": "**Contoh:** Gol seterusnya pada minit ke-67.",
+                "en": "**Example:** Next goal in the 67th minute."
+              }
+            },
+            {
+              "code": "PAR",
+              "title": {
+                "ms": "Parlay / Akumulator",
+                "en": "Parlay / Accumulator"
+              },
+              "body": {
+                "ms": "Gabungkan beberapa pilihan dalam satu slip. Odds didarab, tetapi semua pilihan mesti menang.",
+                "en": "Combine several picks in one slip. Odds multiply, but every pick must win."
+              },
+              "example": {
+                "ms": "**Contoh:** 3 pilihan @ 1.90 = odds gabungan 6.86.",
+                "en": "**Example:** 3 picks @ 1.90 = combined odds of 6.86."
+              }
+            },
+            {
+              "code": "HT",
+              "title": {
+                "ms": "Separuh Masa",
+                "en": "Half Time"
+              },
+              "body": {
+                "ms": "Pasaran yang diselesaikan pada keputusan separuh masa pertama sahaja.",
+                "en": "Markets settled on the first-half result only."
+              },
+              "example": {
+                "ms": "**Contoh:** Seri pada separuh masa @ 2.10.",
+                "en": "**Example:** Half-time draw @ 2.10."
+              }
+            }
+          ]
+        },
+        {
+          "id": "jlpr12e3",
+          "type": "split",
+          "visual": "odds",
+          "eyebrow": {
+            "ms": "Taruhan Langsung",
+            "en": "Live Betting"
+          },
+          "title": {
+            "ms": "Bertaruh Ketika Perlawanan Sedang Berlangsung",
+            "en": "Bet While the Match Is On"
+          },
+          "body": {
+            "ms": "Taruhan langsung membolehkan anda membaca perlawanan dahulu sebelum membuat keputusan. Lihat siapa yang menguasai bola, siapa yang cedera, dan bagaimana tempo permainan berubah, kemudian pilih pasaran yang sepadan.\n\nDi {brand}, odds langsung dikemas kini secara automatik tanpa perlu memuat semula halaman. Ciri **cash out** membolehkan anda menutup taruhan lebih awal untuk mengunci keuntungan atau mengurangkan kerugian, bergantung pada keadaan perlawanan.",
+            "en": "Live betting lets you read the game before you commit. See who controls possession, who is injured and how the tempo shifts, then pick the market that fits.\n\nAt {brand}, live odds refresh automatically without reloading the page. **Cash out** lets you close a bet early to lock in profit or cut losses, depending on how the match is going."
+          },
+          "boardTitle": {
+            "ms": "Langsung Sekarang",
+            "en": "Live Now"
+          },
+          "boardNote": {
+            "ms": "*Odds untuk paparan sahaja.",
+            "en": "*Odds shown for illustration only."
+          },
+          "fixtures": [
+            {
+              "home": "Johor Darul Ta'zim",
+              "away": "Selangor FC",
+              "meta": {
+                "ms": "Liga Super Malaysia · 67'",
+                "en": "Malaysia Super League · 67'"
+              },
+              "o1": "1.85",
+              "ox": "3.40",
+              "o2": "4.10"
+            },
+            {
+              "home": "Arsenal",
+              "away": "Liverpool",
+              "meta": {
+                "ms": "Liga Perdana Inggeris · 34'",
+                "en": "English Premier League · 34'"
+              },
+              "o1": "2.45",
+              "ox": "3.30",
+              "o2": "2.80"
+            },
+            {
+              "home": "Lee Zii Jia",
+              "away": "Kunlavut V.",
+              "meta": {
+                "ms": "BWF World Tour · Set 2",
+                "en": "BWF World Tour · Set 2"
+              },
+              "o1": "1.72",
+              "ox": "—",
+              "o2": "2.05"
+            }
+          ]
+        },
+        {
+          "id": "rau60e8x",
+          "type": "cards",
+          "layout": "grid-2",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Sukan Tempatan & Esports",
+            "en": "Local Sports & Esports"
+          },
+          "title": {
+            "ms": "Dekat di Hati Pemain Malaysia",
+            "en": "Close to Malaysian Players' Hearts"
+          },
+          "items": [
+            {
+              "title": {
+                "ms": "Badminton & Sepak Takraw",
+                "en": "Badminton & Sepak Takraw"
+              },
+              "body": {
+                "ms": "Badminton adalah sukan yang diikuti hampir setiap rumah di Malaysia, dan {brand} memberikan liputan penuh untuk setiap siri BWF. Anda boleh bertaruh pada pemenang perlawanan, handicap mata, jumlah set atau keputusan set pertama.\n\nSepak takraw pula mendapat pasaran khas yang jarang ditawarkan platform lain, termasuk liga tempatan dan kejohanan serantau seperti Sukan SEA.",
+                "en": "Badminton is followed in almost every Malaysian household, and {brand} covers every BWF event in full. Bet on the match winner, point handicap, total sets or first-set result.\n\nSepak takraw gets dedicated markets few platforms offer, including local leagues and regional tournaments such as the SEA Games."
+              }
+            },
+            {
+              "title": {
+                "ms": "Esports – Pasaran yang Berkembang Pesat",
+                "en": "Esports – A Fast-Growing Market"
+              },
+              "body": {
+                "ms": "Mobile Legends adalah antara permainan paling popular di Malaysia, dan perlawanan MPL MY serta MSC menarik ramai penonton setiap musim. {brand} menawarkan pasaran pemenang siri, pemenang peta, kill pertama dan jumlah kill.\n\nDota 2, CS2 dan Valorant turut tersedia untuk kejohanan antarabangsa utama, dengan taruhan langsung semasa setiap peta.",
+                "en": "Mobile Legends is among the most-played games in Malaysia, and MPL MY and MSC matches draw big audiences every season. {brand} offers series winner, map winner, first blood and total kills markets.\n\nDota 2, CS2 and Valorant are available for major international tournaments too, with live betting on every map."
+              }
+            }
+          ]
+        },
+        {
+          "id": "gfxiw9ph",
+          "type": "table",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Pasaran Taruhan",
+            "en": "Betting Markets"
+          },
+          "title": {
+            "ms": "Pasaran Tersedia Mengikut Sukan",
+            "en": "Markets Available by Sport"
+          },
+          "lead": {
+            "ms": "Ringkasan pasaran utama untuk setiap sukan. Pasaran sebenar bergantung pada perlawanan dan kejohanan.",
+            "en": "A summary of the main markets for each sport. Actual markets depend on the match and tournament."
+          },
+          "columns": {
+            "ms": "Sukan, 1X2 / Pemenang, Handicap, Over/Under, Langsung, Parlay",
+            "en": "Sport, 1X2 / Winner, Handicap, Over/Under, Live, Parlay"
+          },
+          "rows": {
+            "ms": "Bola Sepak | yes | yes | yes | yes | yes\nBadminton | yes | yes | yes | yes | yes\nEsports | yes | yes | yes | yes | yes\nTenis | yes | yes | yes | yes | yes\nBola Keranjang | yes | yes | yes | yes | yes\nSepak Takraw | yes | yes | yes | no | yes\nTinju & MMA | yes | no | yes | no | yes",
+            "en": "Football | yes | yes | yes | yes | yes\nBadminton | yes | yes | yes | yes | yes\nEsports | yes | yes | yes | yes | yes\nTennis | yes | yes | yes | yes | yes\nBasketball | yes | yes | yes | yes | yes\nSepak Takraw | yes | yes | yes | no | yes\nBoxing & MMA | yes | no | yes | no | yes"
+          }
+        },
+        {
+          "id": "14xd3ewt",
+          "type": "tips",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Panduan Bijak",
+            "en": "Smart Guide"
+          },
+          "title": {
+            "ms": "Tips untuk Bertaruh dengan Lebih Teratur",
+            "en": "Tips for More Disciplined Betting"
+          },
+          "items": [
+            {
+              "title": {
+                "ms": "Tetapkan bajet dahulu",
+                "en": "Set a budget first"
+              },
+              "body": {
+                "ms": "Tentukan jumlah yang sanggup anda belanjakan sebelum bermula dan gunakan had deposit dalam tetapan akaun.",
+                "en": "Decide how much you can afford before you start and use deposit limits in your account settings."
+              }
+            },
+            {
+              "title": {
+                "ms": "Kaji borang & statistik",
+                "en": "Study form & stats"
+              },
+              "body": {
+                "ms": "Semak keputusan lima perlawanan terakhir, rekod pertemuan dan senarai pemain cedera sebelum memilih.",
+                "en": "Check the last five results, head-to-head record and injury list before picking."
+              }
+            },
+            {
+              "title": {
+                "ms": "Bandingkan pasaran",
+                "en": "Compare markets"
+              },
+              "body": {
+                "ms": "Kadangkala handicap Asia atau over/under memberikan nilai lebih baik daripada 1X2.",
+                "en": "Asian handicap or over/under sometimes offers better value than 1X2."
+              }
+            },
+            {
+              "title": {
+                "ms": "Hadkan parlay",
+                "en": "Keep parlays short"
+              },
+              "body": {
+                "ms": "Lebih banyak pilihan bermakna odds lebih tinggi tetapi peluang lebih rendah. Dua hingga tiga pilihan lebih realistik.",
+                "en": "More picks mean higher odds but lower chances. Two to three picks is more realistic."
+              }
+            },
+            {
+              "title": {
+                "ms": "Jangan kejar kerugian",
+                "en": "Don't chase losses"
+              },
+              "body": {
+                "ms": "Ambil rehat jika keputusan tidak memihak. Alat had masa sesi boleh membantu.",
+                "en": "Take a break when results go against you. Session time limits can help."
+              }
+            }
+          ],
+          "asideTitle": {
+            "ms": "Syarat & Maklumat Akaun",
+            "en": "Account Requirements"
+          },
+          "asideRows": {
+            "ms": "Umur minimum | 18 tahun ke atas\nDeposit minimum | RM 30\nPengeluaran minimum | RM 50\nPengesahan akaun | Nombor telefon + akaun bank atas nama sendiri\nKaedah bayaran | FPX, pemindahan bank, e-dompet\nMata wang | Ringgit Malaysia (MYR)",
+            "en": "Minimum age | 18 and above\nMinimum deposit | RM 30\nMinimum withdrawal | RM 50\nVerification | Phone number + bank account in your own name\nPayment methods | FPX, bank transfer, e-wallets\nCurrency | Malaysian Ringgit (MYR)"
+          },
+          "asideChips": "FPX, Maybank, CIMB, Public Bank, RHB, Touch 'n Go, DuitNow"
+        },
+        {
+          "id": "jfocpkrl",
+          "type": "faq",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Soalan Lazim",
+            "en": "FAQ"
+          },
+          "title": {
+            "ms": "Soalan Lazim Taruhan Sukan",
+            "en": "Sports Betting FAQ"
+          },
+          "items": [
+            {
+              "q": {
+                "ms": "Apakah jenis taruhan yang paling sesuai untuk pemula?",
+                "en": "Which bet type is best for beginners?"
+              },
+              "a": {
+                "ms": "Taruhan 1X2 adalah yang paling mudah difahami kerana anda hanya memilih keputusan akhir perlawanan. Selepas biasa, ramai pemain beralih ke handicap Asia atau over/under.",
+                "en": "1X2 is the easiest to understand because you only pick the final result. Once comfortable, many players move on to Asian handicap or over/under."
+              }
+            },
+            {
+              "q": {
+                "ms": "Bagaimana taruhan langsung berfungsi?",
+                "en": "How does live betting work?"
+              },
+              "a": {
+                "ms": "Selepas perlawanan bermula, odds dikemas kini secara masa nyata mengikut perkembangan permainan. Anda boleh meletakkan taruhan pada pasaran yang masih dibuka, dan pasaran akan digantung seketika semasa detik penting seperti gol atau penalti.",
+                "en": "After kick-off, odds update in real time as the game develops. You can bet on any market that is still open, and markets are briefly suspended at key moments such as goals or penalties."
+              }
+            },
+            {
+              "q": {
+                "ms": "Bilakah taruhan saya diselesaikan?",
+                "en": "When are my bets settled?"
+              },
+              "a": {
+                "ms": "Kebanyakan taruhan diselesaikan dalam beberapa minit selepas keputusan rasmi disahkan. Taruhan parlay diselesaikan selepas perlawanan terakhir dalam slip tamat.",
+                "en": "Most bets settle within minutes of the official result. Parlays settle after the last match in the slip finishes."
+              }
+            },
+            {
+              "q": {
+                "ms": "Apakah cash out?",
+                "en": "What is cash out?"
+              },
+              "a": {
+                "ms": "Cash out membolehkan anda menutup taruhan sebelum perlawanan tamat dengan nilai yang ditawarkan pada masa itu. Ia boleh mengunci keuntungan atau mengurangkan kerugian, tetapi tidak tersedia untuk semua pasaran.",
+                "en": "Cash out lets you close a bet before the match ends at the value offered at that moment. It can lock in profit or reduce losses, but is not available on every market."
+              }
+            },
+            {
+              "q": {
+                "ms": "Adakah taruhan esports berbeza daripada sukan biasa?",
+                "en": "Is esports betting different from regular sports?"
+              },
+              "a": {
+                "ms": "Konsepnya sama, tetapi pasarannya berbeza: anda bertaruh pada pemenang peta, pemenang siri, kill pertama atau jumlah kill, bukan gol atau mata.",
+                "en": "The idea is the same, but the markets differ: you bet on map winner, series winner, first blood or total kills instead of goals or points."
+              }
+            }
+          ]
+        },
+        {
+          "id": "ixnhuaz9",
+          "type": "cta",
+          "tight": true,
+          "title": {
+            "ms": "Sedia untuk Taruhan Pertama Anda?",
+            "en": "Ready for Your First Bet?"
+          },
+          "text": {
+            "ms": "Daftar dalam beberapa minit, buat deposit melalui FPX dan terokai ratusan pasaran sukan setiap hari.",
+            "en": "Sign up in minutes, deposit via FPX and explore hundreds of sports markets every day."
+          },
+          "buttons": [
+            {
+              "label": {
+                "ms": "Daftar Sekarang",
+                "en": "Register Now"
+              },
+              "href": "{register}",
+              "style": "primary"
+            },
+            {
+              "label": {
+                "ms": "Log Masuk",
+                "en": "Log In"
+              },
+              "href": "{login}",
+              "style": "ghost"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xyhxuy9w",
+      "slug": "bingo",
+      "status": "published",
+      "navLabel": {
+        "ms": "Bingo",
+        "en": "Bingo"
+      },
+      "seo": {
+        "title": {
+          "ms": "Bingo Dalam Talian Malaysia – 75 Bola, 90 Bola & Jackpot | {brand}",
+          "en": "Online Bingo Malaysia – 75-Ball, 90-Ball & Jackpot | {brand}"
+        },
+        "description": {
+          "ms": "Main bingo dalam talian di {brand}: bilik 75 bola, 90 bola, bingo pantas dan jackpot progresif. Auto-daub, sembang langsung dan kad percuma harian untuk ahli.",
+          "en": "Play online bingo at {brand}: 75-ball, 90-ball, speed bingo and progressive jackpot rooms. Auto-daub, live chat and free daily cards for members."
+        },
+        "ogImage": ""
+      },
+      "sections": [
+        {
+          "id": "k4bn7j8a",
+          "type": "hero",
+          "breadcrumb": true,
+          "visual": "bingo",
+          "eyebrow": {
+            "ms": "Bingo Dalam Talian",
+            "en": "Online Bingo"
+          },
+          "title": {
+            "ms": "Bingo Dalam Talian {brand} – Permainan Klasik, Bilik Langsung Sepanjang Hari",
+            "en": "Online Bingo at {brand} – A Classic Game with Live Rooms All Day"
+          },
+          "highlight": {
+            "ms": "Bingo Dalam Talian",
+            "en": "Online Bingo"
+          },
+          "lead": {
+            "ms": "Bilik bingo dibuka 24 jam dengan pelbagai format, daripada pusingan pantas lima minit hingga permainan jackpot yang terkumpul setiap hari. Beli kad, biarkan sistem auto-daub menanda nombor, dan bersembang dengan pemain lain sementara bola dicabut.",
+            "en": "Bingo rooms run 24 hours in several formats, from five-minute speed rounds to jackpot games that grow every day. Buy your cards, let auto-daub mark the numbers, and chat with other players while the balls are drawn."
+          },
+          "buttons": [
+            {
+              "label": {
+                "ms": "Daftar & Main Bingo",
+                "en": "Register & Play Bingo"
+              },
+              "href": "{register}",
+              "style": "primary"
+            },
+            {
+              "label": {
+                "ms": "Log Masuk",
+                "en": "Log In"
+              },
+              "href": "{login}",
+              "style": "ghost"
+            }
+          ],
+          "minis": [
+            {
+              "icon": "clock",
+              "title": {
+                "ms": "Bilik 24/7",
+                "en": "24/7 Rooms"
+              },
+              "body": {
+                "ms": "Pusingan baharu bermula setiap beberapa minit.",
+                "en": "A new round starts every few minutes."
+              }
+            },
+            {
+              "icon": "users",
+              "title": {
+                "ms": "Sembang Langsung",
+                "en": "Live Chat"
+              },
+              "body": {
+                "ms": "Berbual dengan pemain lain dalam bilik.",
+                "en": "Talk with other players in the room."
+              }
+            },
+            {
+              "icon": "gift",
+              "title": {
+                "ms": "Kad Percuma",
+                "en": "Free Cards"
+              },
+              "body": {
+                "ms": "Kad bingo percuma harian untuk ahli.",
+                "en": "Free daily bingo cards for members."
+              }
+            },
+            {
+              "icon": "lock",
+              "title": {
+                "ms": "Adil & Selamat",
+                "en": "Fair & Secure"
+              },
+              "body": {
+                "ms": "Cabutan RNG & sambungan SSL.",
+                "en": "RNG draws & SSL connections."
+              }
+            }
+          ]
+        },
+        {
+          "id": "yehy6kn0",
+          "type": "prose",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Mengenai Bingo",
+            "en": "About Bingo"
+          },
+          "title": {
+            "ms": "Apa Itu Bingo di {brand}?",
+            "en": "What Is Bingo at {brand}?"
+          },
+          "body": {
+            "ms": "Bingo adalah permainan nombor yang mudah: setiap pemain memegang kad bernombor, nombor dicabut secara rawak, dan pemain pertama yang melengkapkan corak yang ditetapkan memenangi pusingan itu.\n\nDi {brand}, semua cabutan dijana oleh **penjana nombor rawak (RNG)** yang diaudit, jadi setiap kad mempunyai peluang yang sama. Sistem **auto-daub** menanda nombor anda secara automatik, jadi anda boleh bermain beberapa kad serentak tanpa terlepas satu nombor pun.\n\nYang menjadikan bingo berbeza daripada permainan kasino lain ialah unsur sosialnya. Setiap bilik mempunyai sembang langsung yang dikendalikan oleh hos, lengkap dengan permainan mini dan hadiah kecil sepanjang sesi.",
+            "en": "Bingo is a simple numbers game: every player holds a numbered card, numbers are drawn at random, and the first player to complete the set pattern wins the round.\n\nAt {brand}, every draw comes from an audited **random number generator (RNG)**, so every card has the same chance. **Auto-daub** marks your numbers automatically, so you can play several cards at once without missing a call.\n\nWhat sets bingo apart from other casino games is the social side. Every room has a hosted live chat, with mini-games and small prizes throughout the session."
+          }
+        },
+        {
+          "id": "qojfp5nz",
+          "type": "cards",
+          "layout": "grid-4",
+          "background": "surface",
+          "eyebrow": {
+            "ms": "Format Bingo",
+            "en": "Bingo Formats"
+          },
+          "title": {
+            "ms": "Pilih Format yang Sesuai dengan Gaya Anda",
+            "en": "Pick the Format That Suits Your Style"
+          },
+          "lead": {
+            "ms": "Empat format utama, setiap satunya dengan rentak, saiz kad dan struktur hadiah yang berbeza.",
+            "en": "Four main formats, each with its own pace, card size and prize structure."
+          },
+          "items": [
+            {
+              "icon": "bingo",
+              "title": {
+                "ms": "Bingo 75 Bola",
+                "en": "75-Ball Bingo"
+              },
+              "body": {
+                "ms": "Kad 5×5 dengan petak bebas di tengah. Menang dengan melengkapkan corak seperti garisan, huruf X atau sudut empat.",
+                "en": "A 5×5 card with a free centre square. Win by completing patterns such as a line, an X or four corners."
+              },
+              "stat1": "75",
+              "stat1Label": {
+                "ms": "bola",
+                "en": "balls"
+              },
+              "stat2": "5×5",
+              "stat2Label": {
+                "ms": "kad",
+                "en": "card"
+              },
+              "tags": {
+                "ms": "Corak pelbagai, Popular di Asia",
+                "en": "Many patterns, Popular in Asia"
+              }
+            },
+            {
+              "icon": "target",
+              "title": {
+                "ms": "Bingo 90 Bola",
+                "en": "90-Ball Bingo"
+              },
+              "body": {
+                "ms": "Kad 9×3 dengan 15 nombor. Tiga peluang hadiah setiap pusingan: satu baris, dua baris dan rumah penuh.",
+                "en": "A 9×3 card with 15 numbers. Three prizes per round: one line, two lines and full house."
+              },
+              "stat1": "90",
+              "stat1Label": {
+                "ms": "bola",
+                "en": "balls"
+              },
+              "stat2": "9×3",
+              "stat2Label": {
+                "ms": "kad",
+                "en": "card"
+              },
+              "tags": {
+                "ms": "3 hadiah, Format klasik",
+                "en": "3 prizes, Classic format"
+              }
+            },
+            {
+              "icon": "bolt",
+              "title": {
+                "ms": "Bingo Pantas",
+                "en": "Speed Bingo"
+              },
+              "body": {
+                "ms": "Pusingan singkat dengan bola dicabut setiap dua saat. Sesuai untuk sesi pendek semasa rehat.",
+                "en": "Short rounds with a ball drawn every two seconds. Ideal for a quick session on a break."
+              },
+              "stat1": "<5",
+              "stat1Label": {
+                "ms": "minit",
+                "en": "minutes"
+              },
+              "stat2": "30",
+              "stat2Label": {
+                "ms": "bola",
+                "en": "balls"
+              },
+              "tags": {
+                "ms": "Rentak laju, Kad murah",
+                "en": "Fast pace, Cheap cards"
+              }
+            },
+            {
+              "icon": "trophy",
+              "title": {
+                "ms": "Bingo Jackpot",
+                "en": "Jackpot Bingo"
+              },
+              "body": {
+                "ms": "Sebahagian daripada setiap kad yang dibeli masuk ke tabung jackpot yang terus bertambah sehingga dimenangi.",
+                "en": "Part of every card sold goes into a jackpot pool that keeps growing until it is won."
+              },
+              "stat1": "↑",
+              "stat1Label": {
+                "ms": "progresif",
+                "en": "progressive"
+              },
+              "stat2": "5×5",
+              "stat2Label": {
+                "ms": "kad",
+                "en": "card"
+              },
+              "tags": {
+                "ms": "Hadiah terkumpul, Sesi berjadual",
+                "en": "Growing prize, Scheduled sessions"
+              }
+            }
+          ]
+        },
+        {
+          "id": "dddo33c8",
+          "type": "steps",
+          "howTo": true,
+          "eyebrow": {
+            "ms": "Cara Bermain",
+            "en": "How to Play"
+          },
+          "title": {
+            "ms": "Mula Bermain Bingo dalam 4 Langkah",
+            "en": "Start Playing Bingo in 4 Steps"
+          },
+          "lead": {
+            "ms": "Tiada strategi rumit diperlukan. Anda boleh menyertai pusingan pertama dalam masa kurang daripada lima minit.",
+            "en": "No complicated strategy needed. You can join your first round in under five minutes."
+          },
+          "items": [
+            {
+              "title": {
+                "ms": "Daftar Akaun",
+                "en": "Create an Account"
+              },
+              "body": {
+                "ms": "Isi borang ringkas dan sahkan nombor telefon melalui OTP.",
+                "en": "Fill in a short form and verify your phone number by OTP."
+              }
+            },
+            {
+              "title": {
+                "ms": "Pilih Bilik",
+                "en": "Choose a Room"
+              },
+              "body": {
+                "ms": "Tapis bilik mengikut format, harga kad dan saiz jackpot.",
+                "en": "Filter rooms by format, card price and jackpot size."
+              }
+            },
+            {
+              "title": {
+                "ms": "Beli Kad",
+                "en": "Buy Cards"
+              },
+              "body": {
+                "ms": "Pilih bilangan kad. Lebih banyak kad bermakna lebih banyak peluang.",
+                "en": "Pick how many cards you want. More cards mean more chances."
+              }
+            },
+            {
+              "title": {
+                "ms": "Tonton & Menang",
+                "en": "Watch & Win"
+              },
+              "body": {
+                "ms": "Auto-daub menanda nombor anda. Hadiah dikreditkan serta-merta.",
+                "en": "Auto-daub marks your numbers. Prizes are credited instantly."
+              }
+            }
+          ]
+        },
+        {
+          "id": "z116dd8e",
+          "type": "table",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Perbandingan Format",
+            "en": "Format Comparison"
+          },
+          "title": {
+            "ms": "Bingo 75, 90, Pantas atau Jackpot?",
+            "en": "75-Ball, 90-Ball, Speed or Jackpot?"
+          },
+          "lead": {
+            "ms": "Ringkasan perbezaan utama untuk membantu anda memilih bilik.",
+            "en": "A summary of the key differences to help you choose a room."
+          },
+          "columns": {
+            "ms": "Format, Bola, Kad, Tempoh Pusingan, Sesuai Untuk",
+            "en": "Format, Balls, Card, Round Length, Best For"
+          },
+          "rows": {
+            "ms": "75 Bola | 75 | 5×5 | 8–10 minit | Pemain yang suka corak berbeza\n90 Bola | 90 | 9×3 | 10–12 minit | Tiga peluang hadiah setiap pusingan\nPantas | 30 | 3×3 | Kurang 5 minit | Sesi pendek\nJackpot | 75 | 5×5 | Berjadual | Pemburu hadiah besar",
+            "en": "75-Ball | 75 | 5×5 | 8–10 minutes | Players who like varied patterns\n90-Ball | 90 | 9×3 | 10–12 minutes | Three prize chances per round\nSpeed | 30 | 3×3 | Under 5 minutes | Short sessions\nJackpot | 75 | 5×5 | Scheduled | Big-prize hunters"
+          }
+        },
+        {
+          "id": "ovzh6h7k",
+          "type": "tips",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Corak & Strategi",
+            "en": "Patterns & Strategy"
+          },
+          "title": {
+            "ms": "Tips untuk Bermain Bingo dengan Bijak",
+            "en": "Tips for Playing Bingo Wisely"
+          },
+          "items": [
+            {
+              "title": {
+                "ms": "Main beberapa kad, bukan terlalu banyak",
+                "en": "Play a few cards, not too many"
+              },
+              "body": {
+                "ms": "Tiga hingga enam kad memberi peluang lebih baik tanpa melebihi bajet.",
+                "en": "Three to six cards improve your chances without blowing the budget."
+              }
+            },
+            {
+              "title": {
+                "ms": "Pilih bilik yang kurang sesak",
+                "en": "Pick quieter rooms"
+              },
+              "body": {
+                "ms": "Bilangan pemain yang lebih kecil bermakna persaingan lebih rendah untuk setiap hadiah.",
+                "en": "Fewer players means less competition for each prize."
+              }
+            },
+            {
+              "title": {
+                "ms": "Manfaatkan sesi bonus",
+                "en": "Use bonus sessions"
+              },
+              "body": {
+                "ms": "Sesetengah bilik menawarkan kad percuma atau hadiah berganda pada waktu tertentu.",
+                "en": "Some rooms offer free cards or double prizes at certain times."
+              }
+            },
+            {
+              "title": {
+                "ms": "Tetapkan had perbelanjaan",
+                "en": "Set a spending limit"
+              },
+              "body": {
+                "ms": "Gunakan had deposit dan had masa sesi dalam tetapan akaun.",
+                "en": "Use deposit limits and session time limits in your account settings."
+              }
+            }
+          ],
+          "asideTitle": {
+            "ms": "Corak Kemenangan Biasa",
+            "en": "Common Winning Patterns"
+          },
+          "asidePatterns": [
+            {
+              "pattern": "line",
+              "title": {
+                "ms": "Satu Garisan",
+                "en": "Single Line"
+              },
+              "body": {
+                "ms": "Lengkapkan mana-mana baris, lajur atau pepenjuru.",
+                "en": "Complete any row, column or diagonal."
+              }
+            },
+            {
+              "pattern": "corners",
+              "title": {
+                "ms": "Empat Sudut",
+                "en": "Four Corners"
+              },
+              "body": {
+                "ms": "Tandakan keempat-empat sudut kad.",
+                "en": "Mark all four corners of the card."
+              }
+            },
+            {
+              "pattern": "x",
+              "title": {
+                "ms": "Huruf X",
+                "en": "Letter X"
+              },
+              "body": {
+                "ms": "Lengkapkan kedua-dua pepenjuru.",
+                "en": "Complete both diagonals."
+              }
+            },
+            {
+              "pattern": "full",
+              "title": {
+                "ms": "Rumah Penuh",
+                "en": "Full House"
+              },
+              "body": {
+                "ms": "Tandakan setiap nombor pada kad.",
+                "en": "Mark every number on the card."
+              }
+            }
+          ]
+        },
+        {
+          "id": "h89sgxqu",
+          "type": "cards",
+          "layout": "grid-3",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Kelebihan Ahli",
+            "en": "Member Benefits"
+          },
+          "title": {
+            "ms": "Kenapa Bermain Bingo di {brand}?",
+            "en": "Why Play Bingo at {brand}?"
+          },
+          "items": [
+            {
+              "icon": "gift",
+              "title": {
+                "ms": "Kad Percuma Harian",
+                "en": "Free Daily Cards"
+              },
+              "body": {
+                "ms": "Log masuk setiap hari untuk menuntut kad bingo percuma di bilik terpilih.",
+                "en": "Log in every day to claim free bingo cards in selected rooms."
+              }
+            },
+            {
+              "icon": "users",
+              "title": {
+                "ms": "Komuniti Aktif",
+                "en": "Active Community"
+              },
+              "body": {
+                "ms": "Sembang langsung, hos bilik dan permainan mini sepanjang sesi.",
+                "en": "Live chat, room hosts and mini-games throughout each session."
+              }
+            },
+            {
+              "icon": "phone",
+              "title": {
+                "ms": "Mesra Telefon",
+                "en": "Mobile-Friendly"
+              },
+              "body": {
+                "ms": "Kad bingo dipaparkan dengan jelas walaupun pada skrin kecil.",
+                "en": "Bingo cards display clearly even on small screens."
+              }
+            },
+            {
+              "icon": "lock",
+              "title": {
+                "ms": "Cabutan Adil",
+                "en": "Fair Draws"
+              },
+              "body": {
+                "ms": "RNG diaudit dan sejarah cabutan boleh disemak.",
+                "en": "Audited RNG with a checkable draw history."
+              }
+            },
+            {
+              "icon": "cash",
+              "title": {
+                "ms": "Pembayaran Pantas",
+                "en": "Fast Payouts"
+              },
+              "body": {
+                "ms": "Hadiah dikreditkan ke dompet serta-merta selepas pusingan.",
+                "en": "Prizes go to your wallet instantly after each round."
+              }
+            },
+            {
+              "icon": "chat",
+              "title": {
+                "ms": "Sokongan 24/7",
+                "en": "24/7 Support"
+              },
+              "body": {
+                "ms": "Pasukan sokongan BM & Inggeris sedia membantu.",
+                "en": "Support team on hand in Malay & English."
+              }
+            }
+          ]
+        },
+        {
+          "id": "gij6jkt1",
+          "type": "faq",
+          "tight": true,
+          "eyebrow": {
+            "ms": "Soalan Lazim",
+            "en": "FAQ"
+          },
+          "title": {
+            "ms": "Soalan Lazim Bingo",
+            "en": "Bingo FAQ"
+          },
+          "items": [
+            {
+              "q": {
+                "ms": "Adakah keputusan bingo di {brand} adil?",
+                "en": "Are bingo results at {brand} fair?"
+              },
+              "a": {
+                "ms": "Ya. Setiap nombor dicabut oleh penjana nombor rawak (RNG) yang diaudit secara bebas, jadi setiap kad mempunyai peluang menang yang sama.",
+                "en": "Yes. Every number is drawn by an independently audited random number generator (RNG), so every card has an equal chance of winning."
+              }
+            },
+            {
+              "q": {
+                "ms": "Berapakah deposit minimum untuk bermain bingo?",
+                "en": "What is the minimum deposit to play bingo?"
+              },
+              "a": {
+                "ms": "Deposit minimum ialah RM 30, dan harga kad bermula serendah RM 0.10 bergantung pada bilik.",
+                "en": "The minimum deposit is RM 30, and card prices start from as little as RM 0.10 depending on the room."
+              }
+            },
+            {
+              "q": {
+                "ms": "Bolehkah saya bermain bingo di telefon?",
+                "en": "Can I play bingo on my phone?"
+              },
+              "a": {
+                "ms": "Boleh. Bilik bingo berfungsi sepenuhnya pada pelayar mudah alih dan aplikasi Android, dengan susun atur kad yang dioptimumkan untuk skrin kecil.",
+                "en": "Yes. Bingo rooms work fully in mobile browsers and the Android app, with card layouts optimised for small screens."
+              }
+            },
+            {
+              "q": {
+                "ms": "Bagaimana hadiah jackpot dituntut?",
+                "en": "How do I claim a jackpot prize?"
+              },
+              "a": {
+                "ms": "Hadiah jackpot dikreditkan secara automatik ke dompet anda sebaik sahaja pusingan tamat. Tiada tuntutan manual diperlukan.",
+                "en": "Jackpot prizes are credited to your wallet automatically as soon as the round ends. No manual claim is needed."
+              }
+            },
+            {
+              "q": {
+                "ms": "Adakah bilik bingo tersedia dalam Bahasa Melayu?",
+                "en": "Are bingo rooms available in Malay?"
+              },
+              "a": {
+                "ms": "Ya. Antara muka bilik dan sembang langsung tersedia dalam Bahasa Melayu dan Inggeris.",
+                "en": "Yes. The room interface and live chat are available in Malay and English."
+              }
+            },
+            {
+              "q": {
+                "ms": "Bolehkah saya bermain di beberapa bilik serentak?",
+                "en": "Can I play in several rooms at once?"
+              },
+              "a": {
+                "ms": "Boleh. Anda boleh membuka beberapa bilik dalam tab berasingan, dan auto-daub akan menanda kad anda di setiap bilik.",
+                "en": "Yes. Open several rooms in separate tabs and auto-daub will mark your cards in each one."
+              }
+            }
+          ]
+        },
+        {
+          "id": "pkacvbtu",
+          "type": "cta",
+          "tight": true,
+          "title": {
+            "ms": "Sertai Pusingan Bingo Seterusnya",
+            "en": "Join the Next Bingo Round"
+          },
+          "text": {
+            "ms": "Daftar sekarang, tuntut kad percuma anda dan masuk ke bilik yang bermula dalam beberapa minit.",
+            "en": "Register now, claim your free cards and jump into a room starting in minutes."
+          },
+          "buttons": [
+            {
+              "label": {
+                "ms": "Daftar & Main Sekarang",
+                "en": "Register & Play Now"
+              },
+              "href": "{register}",
+              "style": "primary"
+            },
+            {
+              "label": {
+                "ms": "Log Masuk",
+                "en": "Log In"
+              },
+              "href": "{login}",
+              "style": "ghost"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
