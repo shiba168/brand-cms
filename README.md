@@ -43,7 +43,7 @@ different `SITE_ID` env var (e.g. `megawin`, `luckyspin`). Each brand's content
 and images are kept apart by that ID. Give the first site a `SITE_ID` too, or leave
 it empty on the first site only.
 
-### Old notes
+### Copying content from an existing brand
 
 Each brand = its own Vercel project from the **same GitHub repo**, with its own
 Redis + Blob + `ADMIN_PASSWORD`. To start a new brand from an existing one:
